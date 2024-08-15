@@ -6,6 +6,7 @@ import { json } from "express"
 
 const app = express()
 const port = 3000
+// add your own MongoDB string here...
 const dbUrl = ""
 
 app.use(cors())
