@@ -1,4 +1,4 @@
-# notebook_app
+# Notebook App
 
 This is a small React app inspired by Google Keep, designed to help you take and organize notes efficiently. With this app, you can create, edit, and delete notes, making it a handy tool for managing your tasks and ideas.
 
